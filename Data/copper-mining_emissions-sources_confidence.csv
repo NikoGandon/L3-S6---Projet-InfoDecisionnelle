@@ -1,0 +1,556 @@
+source_id,source_name,iso3_country,original_inventory_sector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+25486429,Karma Mine,ALB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486430,Lak Roshi Mine,ALB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486431,Munella Mine,ALB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486432,Spac Mine,ALB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486433,Alumbrera Mine,ARG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486434,Lindero Mine,ARG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486435,Agarak Mine,ARM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486436,Kajaran Mine,ARM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486437,Kapan Mine,ARM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486438,Teghut Mine,ARM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486439,Ankata Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486440,Anthill Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486441,Balcooma Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486442,Boddington Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486449,CSA Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486443,Cadia East Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486444,Cadia Hill Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486445,Cadia Valley Operation,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486446,Capricorn Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486447,Carrapateena Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486448,Cassini Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486451,DeGrussa Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486450,Deflector Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486452,Dry River South Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486453,Dugald River Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486454,Durkin North Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486455,Eloise Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486456,Enterprise Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486457,Ernest Henry Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486458,Far West Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486459,Golden Grove Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486460,Hellyer Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486461,Hera Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486462,Jaguar Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486463,Kanmantoo Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486464,Lanfranchi Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486465,Larsens/Hartmans/North East Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486466,Long Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486467,Malu Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486468,Miitel Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486469,Monty Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486470,Mount Carlton Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486471,Mount Colin Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486472,Mount Garnet Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486473,Mount Isa Operation,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486474,Mungana Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486475,Murrawombie Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486476,Nifty Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486477,North Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486478,Northparkes Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486479,Nova Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486480,Olympic Dam Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486481,Otter Juan Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486482,Peak Gold Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486483,Portia Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486484,Potosi Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486485,Renison Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486486,Ridgeway Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486487,Rocklands Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486488,Rosebery Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486489,Savannah Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486490,Southern Operations,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486491,Surveyor Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486492,Telfer Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486493,Thalanga Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486494,Tritton Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486495,Warriedar Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486496,West Dome Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486497,Whundo Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486498,Woodlawn Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486499,X41 Mine,AUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486500,Gedabek Mine,AZE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486501,Chelopech Mine,BGR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486502,Coro Coro Mine,BOL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486503,Don Mario Mine,BOL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486504,San Vicente Mine,BOL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486505,Antas Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486506,Aripuana Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486507,Celesta Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486508,Chapada Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486509,Palito Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486510,Pedra Branca Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486511,Pilar Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486512,R22 Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486513,Salobo Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486514,Santa Rita Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486515,Sossego Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486516,Surubim Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486517,Vermelhos Mine,BRA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486518,Khoemacau Mine,BWA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486519,Mowana Mine,BWA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486520,Thakadu Mine,BWA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486521,777 Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486522,Birchtree/Thompson Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486523,Cantung Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486524,Coleman Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486525,Copper Cliff North Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486526,Copper Mountain Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486527,Creighton Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486528,Fraser Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486529,Garson Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486530,Gibraltar Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486531,Highland Valley Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486532,Huckleberry Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486533,Kidd Creek Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486536,LaRonde Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486534,Lac des Iles Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486535,Lalor Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486537,Matagami Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486538,McCreedy West Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486539,Ming Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486540,Minto Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486541,Morrison/Levack Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486542,Mount Milligan Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486543,Mount Polley Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486544,Myra Falls Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486545,New Afton Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486546,Nickel Rim South Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486547,Nunavik Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486548,Qakimajurk Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486549,Raglan Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486550,Red Chris Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486551,Reed Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486552,Stobie Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486553,Thompson Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486554,Totten Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486555,Voisey's Bay Mine,CAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486556,Andina Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486557,Antucoya Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486558,Candelaria Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486559,Carmen de Andacollo Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486560,Caserones Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486561,Centinela Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486562,Cerro Colorado Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486563,Chuquicamata Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486564,Collahuasi Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486565,Don Gabriel Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486566,El Abra Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486567,El Soldado Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486568,El Teniente Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486569,Escondida Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486570,Farellon Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486571,Franke Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486572,Gabriela Mistral Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486573,Lomas Bayas Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486574,Los Bronces Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486575,Los Pelambres Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486576,Mantos Blancos Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486577,Mantoverde Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486578,Minera Valle Central Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486579,Ministro Hales Mine ,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486580,Ojos del Salado Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486581,Pascua Lama Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486582,Punitaqui Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486583,Quebrada Blanca Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486584,Radomiro Tomic Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486585,Salvador Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486586,Sierra Gorda Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486587,Spence Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486588,Zaldivar Mine,CHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486589,Anqing Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486590,Ashele Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486591,Bao'ertu Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486592,Chengchao Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486593,Chengmenshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486594,Dabaoshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486595,Dajing Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486596,De'erni Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486597,Dexing Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486598,Dongguashan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486599,Duobaoshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486600,Fengjiashan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486601,Gacun Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486602,Huogeqi Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486603,Huoyanshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486604,Jiama Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486605,Jingouba Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486606,Lanniping Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486607,Luodang Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486608,Luoxue Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486609,Machangqing Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486610,Pulang Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486611,Qulong Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486612,Rongmucuola Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486613,Saishitang Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486614,Sankuanggou Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486615,Shuguang Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486616,Suolajier Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486617,Tangdan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486618,Taohuazui Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486619,Tongguanshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486620,Tongshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486621,Tongshankou Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486622,Tuwu Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486623,Wandongshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486624,Wunugetushan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486625,Xinqiao Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486626,Yinmin Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486627,Yinshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486628,Yongping Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486629,Yulong Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486630,Yushui Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486631,Zheyaoshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486632,Zhibula Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486633,Zijinshan Mine,CHN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486634,Bisie Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486635,Deziwa Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486636,Dikulushi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486637,Dikuluwe-Mashamba Complex,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486638,Etoile Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486639,Frontier Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486662,KOV Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486640,Kabolela Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486641,Kakanda Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486642,Kakula Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486643,Kalabi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486644,Kalukundi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486645,Kamatanda Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486646,Kambove Complex,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486647,Kambove Principal Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486648,Kamfundwa Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486649,Kaminafitwe Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486650,Kamoa Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486651,Kamoa-Kakula Operation,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486652,Kamoto Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486653,Kananga Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486654,Kansoko Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486655,Kansuki Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486656,Kimbwe Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486657,Kinsenda Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486658,Kinsevere Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486659,Kipoi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486660,Kisanfu Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486661,Kolwezi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486663,Likasi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486664,Ludjiba Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486665,Luishia Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486666,M'sesa Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486667,Mabende Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486668,Mashamba East Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486669,Mashitu Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486670,Mikas Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486671,Mindingi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486672,Miniere de Kalmbwe Myunga Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486673,Mukondo Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486674,Mutanda Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486675,Mutoshi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486676,Ruashi Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486677,Shangalowe Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486678,Shituru Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486679,Sico Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486680,Tenke Fungurume Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486681,Tilwezembe Mine,COD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486682,El Roble Mine,COL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486683,Skouriotissa Mine,CYP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486684,Cerro de Maimon Mine,DOM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486685,Pueblo Viejo Mine,DOM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486686,Mirador Mine,ECU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486687,Bisha Mine,ERI,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486688,Aguas Tenidas Mine,ESP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486689,Las Cruces Mine,ESP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486690,Magdalena Mine,ESP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486691,OroValle Mine,ESP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486692,Riotinto Mine,ESP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486693,Sotiel Mine,ESP,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486694,Kevitsa Mine,FIN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486695,Kylylahti Mine,FIN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486696,Pyhasalmi Mine,FIN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486697,Batu Hijau Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486698,Big Gossan Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486700,DMLZ Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486699,Deep Ore Zone Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486701,Grasberg Block Cave Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486702,Grasberg Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486703,Wetar Mine,IDN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486704,Banwas Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486705,Kendadih Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486706,Khetri Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486707,Kolihan Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486708,Malanjkhand Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486709,Rakha Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486710,Surda Mine,IND,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486711,Jian Mine,IRN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486712,Maskani Mine,IRN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486713,Miduk Mine,IRN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486714,Sarcheshmeh Complex,IRN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486715,Sungun Mine,IRN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486716,50 Let Oktyabrya Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486717,Abyz Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486718,Akbastau Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486719,Akchi-Spassky Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486720,Aktogay Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486721,Annensky Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486722,Artemyevsky Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486723,Bozshakol Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486724,Dolinny Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486725,Garemnik Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486726,Irtyshsky Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486727,Itauz Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486728,Karashoshak Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486729,Kipshakpay Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486730,Komar Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486731,Kounrad Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486732,Kusmuryn Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486733,Maleyevskiy Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486734,Nurkazgan Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486735,Orlovsky Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486736,Saryoba East Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486737,Saryoba West Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486738,Sayak-1 Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486739,Sayak-2 Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486740,Sayak-3 Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486741,Shatyrkul Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486742,Varvara Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486743,Zhezkazgan North Mine,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486744,Zhezkazgan Operation,KAZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486745,Bozymchak Mine,KGZ,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486746,Phu Kham Mine,LAO,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486747,Sepon Mine,LAO,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486748,Bong Mine,LBR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486749,Aguila Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486750,Alamo Dorado Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486751,Aranzazu Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486752,Arista Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486753,Asientos Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486754,Avino Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486755,Boleo Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486756,Bolivar Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486757,Buenavista del Cobre Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486758,Campo Morado Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486759,Carrizal Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486760,Charcas Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486761,Cosala Operation,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486762,Cozamin Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486763,El Limon-Guajes Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486764,El Monte Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486765,La Caridad Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486766,La Colorada Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486767,Maria Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486768,Milpillas Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486769,Mirador-Alta Gracia Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486770,Nuestra Senora Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486771,Parral Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486772,Piedras Verdes Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486773,San Francisco del Oro Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486774,San Martin Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486775,San Rafael Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486776,San Sebastian Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486777,Santa Barbara Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486778,Santa Eulalia Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486779,Tayahua Mine,MEX,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486780,Borov Dol Mine,MKD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486781,Buchim Mine,MKD,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486782,Bawdwin Mine,MMR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486783,Letpadaung Mine,MMR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486784,Sabetaung & Kyisintaung Mine,MMR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486785,Erdenet Ovoo Mine,MNG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486786,Hugo North Lift 1 Mine,MNG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486787,Oyu Tolgoi Mine,MNG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486788,Guelb Moghrein Mine,MRT,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486789,Kombat Mine,NAM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486790,Matchless Mine,NAM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486791,Otjihase Mine,NAM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486792,Tschudi Mine,NAM,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486793,Saindak Mine,PAK,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486794,Cobre Panama Mine,PAN,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486795,Alpamarca Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486796,Andaychagua Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486797,Animon Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486798,Antamina Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486799,Antapaccay Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486800,Atacocha Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486801,Carahuacra Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486802,Carahuacra Norte Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486803,Cerro Corona Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486804,Cerro Lindo Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486805,Cerro Verde Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486806,Chapi Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486807,Chungar Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486808,Constancia Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486809,Cuajone Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486810,El Porvenir Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486811,Huaron Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486812,Islay Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486813,Julcani Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486814,Justa Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486815,La Arena Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486816,Las Bambas Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486817,Magistral Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486818,Marcapunta Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486819,Morococha Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486820,Oxidos de Pasco Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486821,Quellaveco Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486822,Raul Rojas Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486823,Rio Pallanga Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486824,San Cristobal Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486825,Santander Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486826,Tajo Norte Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486827,Ticlio Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486828,Toquepala Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486829,Toromocho Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486830,Yanacocha Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486831,Yauricocha Mine,PER,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486832,Canatuan Mine,PHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486833,Didiplo Mine,PHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486834,Padcal Mine,PHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486835,Toledo Mine,PHL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486836,Kainantu Mine,PNG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486837,Ok Tedi Mine,PNG,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486838,Lubin Mine,POL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486839,Polkowice-Sieroszowice Mine,POL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486840,Rudna Mine,POL,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486841,Hyesan Mine,PRK,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486842,Neves-Corvo Mine,PRT,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486843,Panasqueira Mine,PRT,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486844,Baita Plai Mine,ROU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486845,Manaila-Carlibaba Mine,ROU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486846,Rosia Poieni Mine,ROU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486847,Bystrinsky-2 Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486848,Degtyarsky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486849,Festivalnyi Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486850,Gaisky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486851,Gumyoshevsky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486852,Kaula-Kotselvaara Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486853,Komsomolsky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486854,Mayak Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486855,Medvezhyi Ruchei Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486856,Mikheyevskiy Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486857,Novo-Uchalinsk Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486858,Oktyabrsky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486859,Severny Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486860,Sibaysky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486861,Skalisty Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486862,Sorsky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486863,Svyatogor Severny Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486864,Taimyrsky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486865,Uchalinsk Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486866,Verkhneildikansky Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486867,Volkovskiy Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486868,Voro Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486869,Vostok-2 Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486870,Yubileynoe Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486871,Zapolyarny Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486872,Zmeinogorsk Mine,RUS,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486873,Al Amar Mine,SAU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486874,Jabal Sayid Mine,SAU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486875,Mahd ad Dahab Mine,SAU,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486876,Bor Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486877,Borska Reka Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486878,Bosilegrad Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486879,Cerovo Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486880,Cukaru Peki Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486881,Dumitru Potok Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486882,Jama Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486883,Majdanpek Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486884,Rudnik Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486885,Veliki Krivelj Mine,SRB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486886,Aitik Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486887,Bolinden Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486888,Falun Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486889,Garpenberg Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486890,Kankberg Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486891,Kristineberg Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486892,Renstrom Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486893,Zinkgruvan Mine,SWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486894,Cakmakkaya Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486895,Cayeli Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486896,Copler Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486897,Havran Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486898,Kisladag Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486899,Kure Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486900,Murgul Mine,TUR,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486901,Bulyanhulu Mine,TZA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486902,Buzwagi Mine,TZA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486903,Anaconda Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486904,Bagdad Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486905,Bingham Canyon Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486906,Brushy Creek Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486907,Buick Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486908,Carlota Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486909,Casteel Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486910,Chino Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486911,Continental Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486912,Copper Cities Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486913,Copper Flat Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486914,Eagle Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486915,Fletcher Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486916,Galena Complex,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486917,Johnson Camp Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486918,Lisbon Valley Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486919,Magma Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486920,Miami Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486921,Mineral Park Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486922,Mission Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486923,Morenci Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486924,No. 29 Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486925,Phoenix Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486926,Pinto Valley Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486927,Pinyon Plain Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486928,Ray Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486929,Revenue-Virginius Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486930,Robinson Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486931,Safford Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486932,San Manuel Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486933,Sierrita Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486934,Silver Bell Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486935,Sunshine Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486936,Sweetwater Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486937,Troy Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486938,Twin Buttes Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486939,Tyrone Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486940,Yerington Mine,USA,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486941,Kalmakyr Mine,UZB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486942,Muruntau Mine,UZB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,very low,,,very low,,,very low,2023-10-30 00:00:00,2023-11-06 11:20:00,very low
+25486943,Bafokeng-Rasimone Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486944,Black Mountain Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486945,Dishaba Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486946,Impala Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486947,Khuseleka Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486948,Klipfontein Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486949,Kroondal Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486950,Marula Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486951,Modikwa Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486952,Mogalakwena Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486953,Mototolo Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486954,Nkomati Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486955,Palabora Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486956,Pilanesberg Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486957,Rustenberg Operation,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486958,Siphumelele Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486959,Styldrift 1 Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486960,Thembelani Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486961,Tumela Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486962,Two Rivers Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486963,Union Mine,ZAF,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486964,Baluba Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486965,Chambishi Main Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486966,Chambishi South East Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486967,Chambishi West Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486968,Chibuluma Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486969,Chingola Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-30 00:00:00,2023-11-06 11:20:00,
+25486970,Kansanshi Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486971,Konkola Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486972,Luanshya Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-30 00:00:00,2023-11-06 11:20:00,high
+25486973,Lubambe Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486974,Lumwana Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486975,Mufulira Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486976,Muliashi Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486977,Mwambashi Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486978,Nchanga Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486979,Nkana Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,low,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486980,Sentinel Mine,ZMB,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486981,Mimosa Mine,ZWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,low,,,low,,,low,2023-10-30 00:00:00,2023-11-06 11:20:00,low
+25486982,Unki Mine,ZWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium
+25486983,Zimplats Mine,ZWE,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-30 00:00:00,2023-11-06 11:20:00,medium

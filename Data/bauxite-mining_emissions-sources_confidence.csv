@@ -1,0 +1,176 @@
+source_id,source_name,iso3_country,original_inventory_sector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+25487520,Amrun Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487521,Andoom Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487522,Bald Hill Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-10 00:00:00,2023-11-06 11:20:00,low
+25487523,Bauxite Hills Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487524,Boddington Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487525,Gove Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487526,Hey Point Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487527,Huntly Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487528,Weipa Operation,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487529,Willowdale Mine,AUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487530,Milici Mine,BIH,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487531,Barro Alto Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487532,Bela Cruz Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487533,Cipo Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487534,Curimbaba Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487535,Itamarati de Minas Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487536,Juruti Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-10 00:00:00,2023-11-06 11:20:00,low
+25487537,Mineracao Rio do Norte Operation,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487538,Mirai Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487539,Monte Branco Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487541,PDC Alcoa Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487540,Paragominas Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-10 00:00:00,2023-11-06 11:20:00,low
+25487542,Pocos de Caldas Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-10 00:00:00,2023-11-06 11:20:00,low
+25487543,Sao Luis Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487544,Saraca Leste Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487545,Saraca Oeste Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487546,Teofilo Mine,BRA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487547,Aojiawan Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487548,Changchonghe Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487549,Dengfeng Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487550,Jianganchong Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487551,Jingxi Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487552,Ke'e Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487553,Lindai Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487554,Maiba Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487555,Mianchi Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487556,Nadou Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487557,Taiping Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487558,Taohua Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487559,Xiangwang Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487560,Xiaoguan Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487561,Xiaoshanba Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487562,Xiaoyi-Shaoy Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487563,Xiaoyi-Xingan Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487564,Xiaping Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487565,Xinmi Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487566,Xishan Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487567,Yangwa Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487568,Yushan Mine,CHN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487569,Awaso Mine,GHA,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487570,Bel Air Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487571,Boffa Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-10 00:00:00,2023-11-06 11:20:00,low
+25487572,Boke Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,low,,,low,,,low,2023-10-10 00:00:00,2023-11-06 11:20:00,low
+25487573,Dabiss Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487574,Dian-Dian Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487575,Friguia Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487576,Garafiri Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487577,Kaboe Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487578,Kindia Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487579,Malapouya Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487580,Sangaredi Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487581,Tinguilica Mine,GIN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487582,Aroaima Mine,GUY,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487583,Bonasika Mine,GUY,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487584,Omai Mine,GUY,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487585,Halimba Mine,HUN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487586,East Kotawaringin Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487587,Enam Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487588,Galang Batang Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487589,Kendawangan Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487590,Lalang Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487591,Ngabang Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487592,Parenggean Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487593,Sansat Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487594,Senggarang Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487595,Tayan Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487596,Tembeling Mine,IDN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487597,Awandi Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487598,Bagmandala Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487599,Bagru Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487600,Baphlimali Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487601,Bhogoli-Pilani Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487602,Bimarla Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487603,Bodai-Daldali Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487604,Chachandeeh Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487605,Chirodih Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487606,Daban-Wamoti Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487607,Dandguri Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487608,Devkhol Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487609,Dhanagarwadi Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487610,Gadhsisa Complex,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487611,Girgaon Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487612,Gudeghar Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487613,Gurdari Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487614,Kawadoli Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487615,Kodingamali Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487616,Kudgaon Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487617,Kurawade Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487618,Mahalmirya Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487619,Mainpat Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487620,Manoli Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487621,Meghare Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487622,Minache Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487623,Mothala-Balachod Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487624,Nana-Goniyasar Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487625,Naredi-2 Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487626,Naredi-Nandra Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487627,Padasali Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487628,Pakhar Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487629,Panchpatmalli Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487630,Pandharepani Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487631,Putka Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487632,Quitol Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487633,Ratadia-Nagrecha Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487634,Roha-Kotda Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487635,Rowale Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487636,Sakhari Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487637,Serangdag Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487638,Shivram Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487639,Udgiri Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487640,Umbarshet Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487641,Wandh Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487642,Yelwan Jugai Mine,IND,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487643,Biglar Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487644,Chekchek Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487645,Dehdasht Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487646,Hasanabad Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487647,Jajarm Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487648,Khezri Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487649,Khidbas Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487650,Kouhbaba Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487651,Sadrabad Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487652,Shah Bolaghi Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487653,Shahid Nilchian Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487654,Tash Mine,IRN,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487655,Breadnut Valley Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487656,Discovery Bay Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487657,Harmons Valley Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487658,Kirkvine Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487659,Mount Oliphant Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487660,Nain Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487661,Schwallenburgh Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487662,St. Ann Mine,JAM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487663,Arkalyk Mine,KAZ,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487664,Krasno-Oktyabrskoye Mine,KAZ,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487665,Turgay Mine,KAZ,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487666,Vostochno-Ayatsky Mine,KAZ,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487667,Kutsko Mine,MNE,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487668,Niksic Operation,MNE,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487669,Stitovo Mine,MNE,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487670,Zagrad Mine,MNE,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487671,Zeta Mine,MNE,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487672,Vila de Manica Mine,MOZ,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487673,Bukit Goh Mine,MYS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487674,Pengerang Mine,MYS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487675,Teluk Ramunia Mine,MYS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487676,Krasnaya Shapochka Mine,RUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487677,Severo-Onezhskiy Mine,RUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487678,Severouralsk Operation,RUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487679,Sredne-Timanskiy Mine,RUS,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487680,Al Ba'itha Mine,SAU,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487681,Az Zabirah Mine,SAU,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,medium,,,medium,,,medium,2023-10-10 00:00:00,2023-11-06 11:20:00,medium
+25487682,West Rennell Islands Mine,SLB,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487683,Sierra Minerals Mine,SLE,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
+25487684,Coermotibo Mine,SUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487685,Kaaimangrasie Mine,SUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487686,Klaverblad Mine,SUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,high,high,,,high,,,high,2023-10-10 00:00:00,2023-11-06 11:20:00,high
+25487687,Ciftlik Mine,TUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487688,Ilhan Mine,TUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487689,Islahiye Mine,TUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487690,Seydisehir Mine,TUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487691,Tufanbeyli Mine,TUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487692,Yilanli Dag Mine,TUR,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487693,Nhan Co Mine ,VNM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
+25487694,Tan Rhai Mine,VNM,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,,,,,,,,,2023-10-10 00:00:00,2023-11-06 11:20:00,
