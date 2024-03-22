@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20231.24.0202.0949                               -->
+<workbook original-version='18.1' source-build='2023.1.10 (20231.24.0202.0949)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='bauxite-mining_country_emissions' inline='true' name='federated.08fk0zo0t7y4oa1cb5dr90lh69u7' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='bauxite-mining_country_emissions' name='textscan.1gjc57c1lkbin719xlzoq1vqr94y'>
+            <connection class='textscan' directory='C:/Users/nikola/Desktop/Cours/L3/Semestre 6/projets/InfoDeci/Data' filename='bauxite-mining_country_emissions.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1gjc57c1lkbin719xlzoq1vqr94y' name='bauxite-mining_country_emissions.csv' table='[bauxite-mining_country_emissions#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='fr_FR'>
+            <column datatype='string' name='iso3_country' ordinal='0' />
+            <column datatype='datetime' name='start_time' ordinal='1' />
+            <column datatype='datetime' name='end_time' ordinal='2' />
+            <column datatype='string' name='original_inventory_sector' ordinal='3' />
+            <column datatype='string' name='gas' ordinal='4' />
+            <column datatype='integer' name='emissions_quantity' ordinal='5' />
+            <column datatype='string' name='emissions_quantity_units' ordinal='6' />
+            <column datatype='string' name='temporal_granularity' ordinal='7' />
+            <column datatype='string' name='created_date' ordinal='8' />
+            <column datatype='string' name='modified_date' ordinal='9' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1gjc57c1lkbin719xlzoq1vqr94y' name='bauxite-mining_country_emissions.csv' table='[bauxite-mining_country_emissions#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='fr_FR'>
+            <column datatype='string' name='iso3_country' ordinal='0' />
+            <column datatype='datetime' name='start_time' ordinal='1' />
+            <column datatype='datetime' name='end_time' ordinal='2' />
+            <column datatype='string' name='original_inventory_sector' ordinal='3' />
+            <column datatype='string' name='gas' ordinal='4' />
+            <column datatype='integer' name='emissions_quantity' ordinal='5' />
+            <column datatype='string' name='emissions_quantity_units' ordinal='6' />
+            <column datatype='string' name='temporal_granularity' ordinal='7' />
+            <column datatype='string' name='created_date' ordinal='8' />
+            <column datatype='string' name='modified_date' ordinal='9' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>iso3_country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[iso3_country]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>iso3_country</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>start_time</remote-name>
+            <remote-type>135</remote-type>
+            <local-name>[start_time]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>start_time</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>datetime</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>end_time</remote-name>
+            <remote-type>135</remote-type>
+            <local-name>[end_time]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>end_time</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>datetime</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>original_inventory_sector</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[original_inventory_sector]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>original_inventory_sector</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gas</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gas]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>gas</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>emissions_quantity</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[emissions_quantity]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>emissions_quantity</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>emissions_quantity_units</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[emissions_quantity_units]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>emissions_quantity_units</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>temporal_granularity</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[temporal_granularity]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>temporal_granularity</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>created_date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[created_date]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>created_date</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>modified_date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[modified_date]</local-name>
+            <parent-name>[bauxite-mining_country_emissions.csv]</parent-name>
+            <remote-alias>modified_date</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='bauxite-mining_country_emissions.csv' datatype='table' name='[__tableau_internal_object_id__].[bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435]' role='measure' type='quantitative' />
+      <column caption='Created Date' datatype='string' name='[created_date]' role='dimension' type='nominal' />
+      <column caption='Emissions Quantity' datatype='integer' name='[emissions_quantity]' role='measure' type='quantitative' />
+      <column caption='Emissions Quantity Units' datatype='string' name='[emissions_quantity_units]' role='dimension' type='nominal' />
+      <column caption='End Time' datatype='datetime' name='[end_time]' role='dimension' type='ordinal' />
+      <column caption='Gas' datatype='string' name='[gas]' role='dimension' type='nominal' />
+      <column caption='Iso3 Country' datatype='string' name='[iso3_country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Modified Date' datatype='string' name='[modified_date]' role='dimension' type='nominal' />
+      <column caption='Original Inventory Sector' datatype='string' name='[original_inventory_sector]' role='dimension' type='nominal' />
+      <column caption='Start Time' datatype='datetime' name='[start_time]' role='dimension' type='ordinal' />
+      <column caption='Temporal Granularity' datatype='string' name='[temporal_granularity]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;FR&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='bauxite-mining_country_emissions.csv' id='bauxite-mining_country_emissions.csv_38659739D3634EB0A4091C9EF648A435'>
+            <properties context=''>
+              <relation connection='textscan.1gjc57c1lkbin719xlzoq1vqr94y' name='bauxite-mining_country_emissions.csv' table='[bauxite-mining_country_emissions#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='fr_FR'>
+                  <column datatype='string' name='iso3_country' ordinal='0' />
+                  <column datatype='datetime' name='start_time' ordinal='1' />
+                  <column datatype='datetime' name='end_time' ordinal='2' />
+                  <column datatype='string' name='original_inventory_sector' ordinal='3' />
+                  <column datatype='string' name='gas' ordinal='4' />
+                  <column datatype='integer' name='emissions_quantity' ordinal='5' />
+                  <column datatype='string' name='emissions_quantity_units' ordinal='6' />
+                  <column datatype='string' name='temporal_granularity' ordinal='7' />
+                  <column datatype='string' name='created_date' ordinal='8' />
+                  <column datatype='string' name='modified_date' ordinal='9' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Feuille 1'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{D688381B-AC47-4668-A777-9E18766AA3AE}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Feuille 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4D4C35EB-80A9-4171-B912-23E2E033F3E7}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Feuille 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
