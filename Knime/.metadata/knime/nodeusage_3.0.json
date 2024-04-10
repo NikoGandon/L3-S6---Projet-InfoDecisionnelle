@@ -6,12 +6,22 @@
             {
                 "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
                 "nodename": "CSV Reader",
-                "nrexecs": 1,
+                "nrexecs": 3,
                 "nrfails": 0,
-                "exectime": 169,
-                "nrcreated": 1,
-                "successor": "n/a",
-                "successornodename": "n/a"
+                "exectime": 300,
+                "nrcreated": 2,
+                "successor": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory",
+                "successornodename": "Row Filter"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory",
+                "nodename": "Row Filter",
+                "nrexecs": 4,
+                "nrfails": 0,
+                "exectime": 85,
+                "nrcreated": 2,
+                "successor": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory",
+                "successornodename": "Row Filter"
             }
         ],
         "metaNodes": {
@@ -19,10 +29,10 @@
         "wrappedNodes": {
         },
         "createdVia": {
-            "WEB_UI": 1
+            "WEB_UI": 4
         }
     },
-    "uptime": 90182,
+    "uptime": 18624270,
     "workflowsOpened": 1,
     "remoteWorkflowsOpened": 0,
     "columnarStorageWorkflowsOpened": 0,
@@ -33,7 +43,7 @@
     "lastUsedPerspective": "starter",
     "launches": 1,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 90182,
+    "timeSinceLastStart": 18624270,
     "crashes": 0,
     "properlyShutDown": false
 }

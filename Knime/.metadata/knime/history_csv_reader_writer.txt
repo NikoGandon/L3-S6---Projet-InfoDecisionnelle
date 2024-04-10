@@ -1,1 +1,6 @@
+C:\Users\nikola\Desktop\Cours\L3\Semestre 6\projets\InfoDeci\Data\sand-quarrying_country_emissions.csv
+C:\Users\nikola\Desktop\Cours\L3\Semestre 6\projets\InfoDeci\Data\rock-quarrying_country_emissions.csv
+C:\Users\nikola\Desktop\Cours\L3\Semestre 6\projets\InfoDeci\Data\iron-mining_emissions-sources.csv
+C:\Users\nikola\Desktop\Cours\L3\Semestre 6\projets\InfoDeci\Data\bauxite-mining_emissions-sources.csv
+C:\Users\nikola\Desktop\Cours\L3\Semestre 6\projets\InfoDeci\Data\copper-mining_emissions-sources.csv
 C:\Users\nikola\Desktop\Cours\L3\Semestre 6\projets\InfoDeci\Data\bauxite-mining_country_emissions.csv
