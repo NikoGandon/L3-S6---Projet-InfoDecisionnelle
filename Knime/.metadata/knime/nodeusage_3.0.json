@@ -4,24 +4,24 @@
     "nodestats": {
         "nodes": [
             {
-                "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
-                "nodename": "CSV Reader",
-                "nrexecs": 3,
+                "id": "org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeFactory",
+                "nodename": "CSV Writer",
+                "nrexecs": 0,
                 "nrfails": 0,
-                "exectime": 300,
-                "nrcreated": 2,
-                "successor": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory",
-                "successornodename": "Row Filter"
+                "exectime": 0,
+                "nrcreated": 1,
+                "successor": "n/a",
+                "successornodename": "n/a"
             },
             {
-                "id": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory",
-                "nodename": "Row Filter",
-                "nrexecs": 4,
+                "id": "org.knime.base.node.io.tablecreator.TableCreator2NodeFactory",
+                "nodename": "Table Creator",
+                "nrexecs": 0,
                 "nrfails": 0,
-                "exectime": 85,
-                "nrcreated": 2,
-                "successor": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory",
-                "successornodename": "Row Filter"
+                "exectime": 0,
+                "nrcreated": 1,
+                "successor": "n/a",
+                "successornodename": "n/a"
             }
         ],
         "metaNodes": {
@@ -29,10 +29,10 @@
         "wrappedNodes": {
         },
         "createdVia": {
-            "WEB_UI": 4
+            "WEB_UI": 2
         }
     },
-    "uptime": 18624270,
+    "uptime": 109215659,
     "workflowsOpened": 1,
     "remoteWorkflowsOpened": 0,
     "columnarStorageWorkflowsOpened": 0,
@@ -41,9 +41,9 @@
     "webUIPerspectiveSwitches": 0,
     "javaUIPerspectiveSwitches": 0,
     "lastUsedPerspective": "starter",
-    "launches": 1,
+    "launches": 2,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 18624270,
+    "timeSinceLastStart": 272358,
     "crashes": 0,
     "properlyShutDown": false
 }
