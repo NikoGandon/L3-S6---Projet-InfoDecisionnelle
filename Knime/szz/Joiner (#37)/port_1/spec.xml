@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
     <entry key="spec_name" type="xstring" value="default"/>
-    <entry key="number_columns" type="xint" value="16"/>
+    <entry key="number_columns" type="xint" value="17"/>
     <config key="column_spec_0">
         <entry key="column_name" type="xstring" value="Entity"/>
         <config key="element_names">
@@ -89,6 +89,31 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_5">
+        <entry key="column_name" type="xstring" value="start_time"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+        </config>
+        <config key="column_domain">
+            <config key="lower_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+                <config key="org.knime.core.data.def.IntCell">
+                    <entry key="IntCell" type="xint" value="2015"/>
+                </config>
+            </config>
+            <config key="upper_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+                <config key="org.knime.core.data.def.IntCell">
+                    <entry key="IntCell" type="xint" value="2022"/>
+                </config>
+            </config>
+        </config>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+    <config key="column_spec_6">
         <entry key="column_name" type="xstring" value="original_inventory_sector"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -110,7 +135,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_6">
+    <config key="column_spec_7">
         <entry key="column_name" type="xstring" value="Sum(emissions_quantity)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -128,14 +153,14 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="63066369"/>
+                    <entry key="IntCell" type="xint" value="4616300"/>
                 </config>
             </config>
         </config>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_7">
+    <config key="column_spec_8">
         <entry key="column_name" type="xstring" value="original_inventory_sector (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -157,7 +182,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_8">
+    <config key="column_spec_9">
         <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -175,14 +200,14 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="299528310"/>
+                    <entry key="IntCell" type="xint" value="14002838"/>
                 </config>
             </config>
         </config>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_9">
+    <config key="column_spec_10">
         <entry key="column_name" type="xstring" value="original_inventory_sector (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -204,7 +229,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_10">
+    <config key="column_spec_11">
         <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -222,14 +247,14 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="564143127"/>
+                    <entry key="IntCell" type="xint" value="36555104"/>
                 </config>
             </config>
         </config>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_11">
+    <config key="column_spec_12">
         <entry key="column_name" type="xstring" value="original_inventory_sector (right) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -251,7 +276,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_12">
+    <config key="column_spec_13">
         <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -269,14 +294,14 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="6596979"/>
+                    <entry key="IntCell" type="xint" value="316735"/>
                 </config>
             </config>
         </config>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_13">
+    <config key="column_spec_14">
         <entry key="column_name" type="xstring" value="original_inventory_sector (right) (right) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -298,7 +323,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_14">
+    <config key="column_spec_15">
         <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right) (right) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -316,15 +341,15 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="2939658"/>
+                    <entry key="IntCell" type="xint" value="237353"/>
                 </config>
             </config>
         </config>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_15">
-        <entry key="column_name" type="xstring" value="Total_emission"/>
+    <config key="column_spec_16">
+        <entry key="column_name" type="xstring" value="Sum"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -341,7 +366,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="715956582"/>
+                    <entry key="IntCell" type="xint" value="43330203"/>
                 </config>
             </config>
         </config>
