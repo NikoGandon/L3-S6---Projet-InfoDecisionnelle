@@ -9,20 +9,20 @@
         <config key="column-filter">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="3"/>
+                <entry key="array-size" type="xint" value="4"/>
                 <entry key="0" type="xstring" value="iso3_country"/>
                 <entry key="1" type="xstring" value="original_inventory_sector"/>
-                <entry key="2" type="xstring" value="emissions_quantity"/>
+                <entry key="2" type="xstring" value="gas"/>
+                <entry key="3" type="xstring" value="emissions_quantity"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="7"/>
+                <entry key="array-size" type="xint" value="6"/>
                 <entry key="0" type="xstring" value="start_time"/>
                 <entry key="1" type="xstring" value="end_time"/>
-                <entry key="2" type="xstring" value="gas"/>
-                <entry key="3" type="xstring" value="emissions_quantity_units"/>
-                <entry key="4" type="xstring" value="temporal_granularity"/>
-                <entry key="5" type="xstring" value="created_date"/>
-                <entry key="6" type="xstring" value="modified_date"/>
+                <entry key="2" type="xstring" value="emissions_quantity_units"/>
+                <entry key="3" type="xstring" value="temporal_granularity"/>
+                <entry key="4" type="xstring" value="created_date"/>
+                <entry key="5" type="xstring" value="modified_date"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
@@ -43,11 +43,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.1.v202401291620"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311271613"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.1.v202401291620"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311291511"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Column Filter"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -57,12 +57,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 10040, Cols: 3"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 10040, Cols: 4"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b42a44e0-0e0b-4fe0-acdd-2e11ec818f69"/>
+        <entry key="file_store_id" type="xstring" value="23e49719-06ff-448d-8b2e-fe13c6a9f9f9"/>
     </config>
 </config>

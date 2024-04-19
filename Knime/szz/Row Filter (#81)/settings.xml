@@ -8,31 +8,27 @@
     <config key="model">
         <config key="rowFilter">
             <entry key="RowFilter_TypeID" type="xstring" value="StringComp_RowFilter"/>
-            <entry key="ColumnName" type="xstring" value="start_time"/>
+            <entry key="ColumnName" type="xstring" value="Year"/>
             <entry key="include" type="xboolean" value="true"/>
             <entry key="deepFiltering" type="xboolean" value="false"/>
             <entry key="CaseSensitive" type="xboolean" value="true"/>
-            <entry key="Pattern" type="xstring" value="2022"/>
+            <entry key="Pattern" type="xstring" value="2018"/>
             <entry key="hasWildCards" type="xboolean" value="false"/>
             <entry key="isRegExpr" type="xboolean" value="false"/>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Column range filter: Input table doesn't contain specified column name"/>
-    </config>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.row.RowFilterNodeFactory"/>
     <entry key="node-name" type="xstring" value="Row Filter"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.2.v202403061155"/>
-    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311271613"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311291511"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Row Filter"/>
     <entry key="hasContent" type="xboolean" value="false"/>

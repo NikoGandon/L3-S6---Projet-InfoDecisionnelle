@@ -131,15 +131,15 @@
                 <entry key="0" type="xstring" value="iso3_country"/>
                 <entry key="1" type="xstring" value="start_time"/>
                 <entry key="2" type="xstring" value="original_inventory_sector"/>
-                <entry key="3" type="xstring" value="Sum(emissions_quantity)"/>
+                <entry key="3" type="xstring" value="emissions_quantity"/>
                 <entry key="4" type="xstring" value="original_inventory_sector (right)"/>
-                <entry key="5" type="xstring" value="Sum(emissions_quantity) (right)"/>
+                <entry key="5" type="xstring" value="emissions_quantity (right)"/>
                 <entry key="6" type="xstring" value="original_inventory_sector (right) (right)"/>
-                <entry key="7" type="xstring" value="Sum(emissions_quantity) (right) (right)"/>
+                <entry key="7" type="xstring" value="emissions_quantity (right) (right)"/>
                 <entry key="8" type="xstring" value="original_inventory_sector (right) (right) (right)"/>
-                <entry key="9" type="xstring" value="Sum(emissions_quantity) (right) (right) (right)"/>
+                <entry key="9" type="xstring" value="emissions_quantity (right) (right) (right)"/>
                 <entry key="10" type="xstring" value="original_inventory_sector (right) (right) (right) (right)"/>
-                <entry key="11" type="xstring" value="Sum(emissions_quantity) (right) (right) (right) (right)"/>
+                <entry key="11" type="xstring" value="emissions_quantity (right) (right) (right) (right)"/>
                 <entry key="12" type="xstring" value="Sum"/>
             </config>
             <config key="excluded_names">
@@ -171,11 +171,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.1.v202401291620"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311271613"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.1.v202401291620"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311291511"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Joiner"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -185,7 +185,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1704, Cols: 17"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1688, Cols: 17"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
@@ -209,6 +209,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0c36e7f7-6447-4ddf-80e2-54a825f8714e"/>
+        <entry key="file_store_id" type="xstring" value="77ffb0ad-cca6-4c8d-8733-5462ba8a6b33"/>
     </config>
 </config>

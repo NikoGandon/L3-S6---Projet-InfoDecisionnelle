@@ -62,7 +62,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_3">
-        <entry key="column_name" type="xstring" value="Sum(emissions_quantity)"/>
+        <entry key="column_name" type="xstring" value="emissions_quantity"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -109,7 +109,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_5">
-        <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right)"/>
+        <entry key="column_name" type="xstring" value="emissions_quantity (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -156,7 +156,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_7">
-        <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right) (right)"/>
+        <entry key="column_name" type="xstring" value="emissions_quantity (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -203,7 +203,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_9">
-        <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right) (right) (right)"/>
+        <entry key="column_name" type="xstring" value="emissions_quantity (right) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -250,7 +250,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_11">
-        <entry key="column_name" type="xstring" value="Sum(emissions_quantity) (right) (right) (right) (right)"/>
+        <entry key="column_name" type="xstring" value="emissions_quantity (right) (right) (right) (right)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>

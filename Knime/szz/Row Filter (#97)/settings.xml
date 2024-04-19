@@ -9,11 +9,11 @@
         <config key="rowFilter">
             <entry key="RowFilter_TypeID" type="xstring" value="StringComp_RowFilter"/>
             <entry key="ColumnName" type="xstring" value="gas"/>
-            <entry key="include" type="xboolean" value="false"/>
+            <entry key="include" type="xboolean" value="true"/>
             <entry key="deepFiltering" type="xboolean" value="false"/>
             <entry key="CaseSensitive" type="xboolean" value="false"/>
-            <entry key="Pattern" type="xstring" value="co2e_*"/>
-            <entry key="hasWildCards" type="xboolean" value="true"/>
+            <entry key="Pattern" type="xstring" value="co2"/>
+            <entry key="hasWildCards" type="xboolean" value="false"/>
             <entry key="isRegExpr" type="xboolean" value="false"/>
         </config>
     </config>
@@ -24,11 +24,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.1.v202401291620"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311271613"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.1.v202401291620"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311291511"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Row Filter"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -38,12 +38,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 6024, Cols: 10"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2008, Cols: 10"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c72a7b27-bdb2-4469-8c40-e28757a68dd0"/>
+        <entry key="file_store_id" type="xstring" value="4e0e615f-8b41-444d-9d6f-b70f78fd4784"/>
     </config>
 </config>

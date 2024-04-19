@@ -3,7 +3,19 @@
     <entry key="spec_name" type="xstring" value="default"/>
     <entry key="number_columns" type="xint" value="5"/>
     <config key="column_spec_0">
-        <entry key="column_name" type="xstring" value="Year"/>
+        <entry key="column_name" type="xstring" value="ISO3"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+        </config>
+        <config key="column_domain"/>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+    <config key="column_spec_1">
+        <entry key="column_name" type="xstring" value="Annee"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -27,8 +39,8 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_1">
-        <entry key="column_name" type="xstring" value="Annual CO₂ emissions"/>
+    <config key="column_spec_2">
+        <entry key="column_name" type="xstring" value="Emission annuelle"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -52,20 +64,8 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="iso3_country"/>
-        <config key="element_names">
-            <entry key="array-size" type="xint" value="0"/>
-        </config>
-        <config key="column_type">
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-        </config>
-        <config key="column_domain"/>
-        <config key="column_properties"/>
-        <config key="meta_data"/>
-    </config>
     <config key="column_spec_3">
-        <entry key="column_name" type="xstring" value="Emission_minerai"/>
+        <entry key="column_name" type="xstring" value="Somme des emissions"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -107,7 +107,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="563.6973364962253"/>
+                    <entry key="DoubleCell" type="xdouble" value="55.11191800424879"/>
                 </config>
             </config>
         </config>
